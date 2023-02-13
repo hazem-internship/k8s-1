@@ -22,7 +22,7 @@ jxRequirements:
     schedule: ""
   cluster:
     chartKind: pages
-    chartRepository: https://github.com/jenkins-x/bdd-jx.git
+    chartRepository: https://github.com/hazem-internship/react2.git
     clusterName: kind
     devEnvApprovers:
     - todo
