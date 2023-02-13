@@ -6,7 +6,7 @@ spec:
     schedule: ""
   cluster:
     chartKind: pages
-    chartRepository: https://github.com/hazem-internship/react2.git
+    chartRepository: https://github.com/hazem-internship/k8s-1.git
     clusterName: kind
     devEnvApprovers:
     - todo
