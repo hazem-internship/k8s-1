@@ -3,9 +3,11 @@ namespace: jx-staging
 repositories:
 - name: dev
   url: https://hazem-internship.github.io/react2/
+- name: dev2
+  url: https://hazem-internship.github.io/k8s-1/
 releases:
 - chart: dev/react2
-  version: 0.0.5
+  version: 0.0.7
   name: react2
 templates: {}
 renderedvalues: {}
