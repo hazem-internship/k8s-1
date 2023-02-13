@@ -5,7 +5,7 @@ repositories:
   url: https://hazem-internship.github.io/react2/
 releases:
 - chart: dev/react2
-  version: 0.0.5
+  version: 0.0.6
   name: react2
 templates: {}
 renderedvalues: {}
