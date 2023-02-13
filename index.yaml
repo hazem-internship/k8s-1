@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  react2:
+  - apiVersion: v1
+    appVersion: 0.0.7
+    created: "2023-02-13T11:22:05.236041574Z"
+    description: A Helm chart for Kubernetes
+    digest: 019a631710410ccd624a8ae17adb0925ee207e4d44625b4de85aae0b22477b0d
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: react2
+    urls:
+    - react2-0.0.7.tgz
+    version: 0.0.7
+generated: "2023-02-13T11:22:05.235069261Z"
