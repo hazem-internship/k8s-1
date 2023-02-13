@@ -6,7 +6,7 @@ spec:
     schedule: ""
   cluster:
     chartKind: pages
-    chartRepository: https://github.com/hazem-internship/charts.git
+    chartRepository: https://github.com/jenkins-x/bdd-jx.git
     clusterName: kind
     devEnvApprovers:
     - todo
