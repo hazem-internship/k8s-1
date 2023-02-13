@@ -1,0 +1,11 @@
+filepath: ""
+namespace: jx-staging
+repositories:
+- name: dev
+  url: https://hazem-internship.github.io/react2/
+releases:
+- chart: dev/react2
+  version: 0.0.5
+  name: react2
+templates: {}
+renderedvalues: {}
